@@ -20,6 +20,7 @@ Here are some ideas to get you started:
   * Application field
     * Industrial 6-axis robot
     * Traction Motor of Electric Vehicle
+    * Urban Air Mobility(UAM)
     
 #### 🌱 Interest 2 : Power Electronics
   * Embedded System
