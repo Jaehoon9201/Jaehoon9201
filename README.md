@@ -25,11 +25,6 @@ Here are some ideas to get you started:
     * Maximum Power Point Tracking(MPPT) using a Reinforcement Learning
   * Control and Design of a Motor-Drive
     * Predictive Control
-    
-#### 🌱 Application Field
-  * Industrial 6-axis Robot
-  * Traction Motor of Electric Vehicle
-  * Urban Air Mobility(UAM), etc
-    
+        
 #### 📫 Contact
 * email : jaehoon9201@snu.ac.kr
