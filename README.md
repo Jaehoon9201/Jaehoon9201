@@ -12,13 +12,14 @@ Here are some ideas to get you started:
     * Classification
     * Supervised Learning 
   * Anomaly Detection using a Deep Learning
-    * Unsupervised Learning
+    * Generative Machine Learning Model
+    * GAN(AC-GAN, SGAN, etc), AE(VAE, Rapp, etc)
   * Power Electronics using a Machine Learning
     * Sensorless Control of Drive-Motor
     * Maximum Power Point Tracking(MPPT) using a Reinforcement Learning
   * Digital Signal Processing
-    * Data Pre-processing(Dimension Reduction, etc)
-    * Data Selection for Training a Model(Correlation analysis, etc)
+    * Data Pre-processing
+    * Data Selection for Training a Model
   * Application field
     * Industrial 6-axis robot
     * Traction Motor of Electric Vehicle
