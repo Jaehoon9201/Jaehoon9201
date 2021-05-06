@@ -17,10 +17,6 @@ Here are some ideas to get you started:
   * Digital Signal Processing
     * Data Pre-processing
     * Data Selection for Training a Model
-  * Application field
-    * Industrial 6-axis robot
-    * Traction Motor of Electric Vehicle
-    * Urban Air Mobility(UAM)
     
 #### 🌱 Interest 2 : Power Electronics
   * Embedded System
@@ -30,5 +26,10 @@ Here are some ideas to get you started:
   * Control and Design of a Motor-Drive
     * Predictive Control
     
+#### 🌱 Application field
+  * Industrial 6-axis robot
+  * Traction Motor of Electric Vehicle
+  * Urban Air Mobility(UAM)
+    
 #### 📫 Contact
-* email : [jaehoon9201@snu.ac.kr](jaehoon9201@snu.ac.kr)
+* email : jaehoon9201@snu.ac.kr
