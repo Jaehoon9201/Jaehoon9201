@@ -26,10 +26,10 @@ Here are some ideas to get you started:
   * Control and Design of a Motor-Drive
     * Predictive Control
     
-#### 🌱 Application field
-  * Industrial 6-axis robot
+#### 🌱 Application Field
+  * Industrial 6-axis Robot
   * Traction Motor of Electric Vehicle
-  * Urban Air Mobility(UAM)
+  * Urban Air Mobility(UAM), etc
     
 #### 📫 Contact
 * email : jaehoon9201@snu.ac.kr
