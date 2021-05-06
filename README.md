@@ -1,7 +1,5 @@
 ### Jae-Hoon Shim
 
-Here are some ideas to get you started:
-
 #### 🔭 Career
 * Received a B.S. degrees, in Automotive Engineering from Hanyang University, Seoul, Korea, in 2018.
 * Pursuing a Ph.D degrees, in Electrical and Computer Engineering from Seoul National University, Seoul, Korea, 2019.02~
