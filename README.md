@@ -11,7 +11,7 @@
     * Supervised Learning 
   * Anomaly Detection using a Deep Learning
     * Generative Machine Learning Model
-    * GAN(AC-GAN, SGAN, etc), AE(VAE, Rapp, etc)
+    * GAN(AC-GAN, SGAN, etc), AE(VAE, RaPP, etc)
   * Digital Signal Processing
     * Data Pre-processing
     * Data Selection for Training a Model
