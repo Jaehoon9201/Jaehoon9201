@@ -19,10 +19,7 @@
 #### 🌱 Interest 2 : Power Electronics
   * Embedded System
   * Power Electronics using a Machine Learning
-    * Sensorless Control of a Motor
-    * Maximum Power Point Tracking(MPPT) using a Reinforcement Learning
   * Control and Design of a Motor-Drive
-    * Predictive Control
         
 #### 📫 Contact
 * email : jaehoon9201@snu.ac.kr
