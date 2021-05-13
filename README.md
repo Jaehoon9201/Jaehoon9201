@@ -17,7 +17,7 @@
     * Data Selection for Training a Model
     
 #### 🌱 Interest 2 : Power Electronics
-  * Embedded System
+  * Embedded System (Digital Signal Processor : TI, STM, Infineon)
   * Power Electronics using a Machine Learning
   * Control and Design of a Motor-Drive
         
