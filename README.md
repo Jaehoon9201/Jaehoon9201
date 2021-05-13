@@ -8,9 +8,11 @@
 #### 🌱 Interest 1 : Smart Factory
   * Fault Detection using a Deep Learning
     * Classification
-    * Supervised Learning 
+    * Discriminative Model 
+    * Supervised Learning
   * Anomaly Detection using a Deep Learning
-    * Generative Machine Learning Model
+    * Semi-Supervised Learning, Unsupervised Learning
+    * Generative Model
     * GAN(AC-GAN, SGAN, etc), AE(VAE, RaPP, etc)
   * Digital Signal Processing
     * Data Pre-processing
