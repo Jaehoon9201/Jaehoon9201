@@ -2,7 +2,7 @@
 
 #### 🔭 Career
 * Received a B.S. degrees, in **Temporary blinded** University, Seoul, Korea, in 2018.
-* Pursuing a Ph.D degrees, in **Temporary blinded** , Seoul, Korea, 2019.02~
+* Pursuing a Ph.D degrees, in **Temporary blinded** University, Seoul, Korea, 2019.02~
 * Research engineer in Hyundai Motors Co. Ltd, Korea from 2018 to 2019
 
 #### 🌱 Interest 1 : Smart Factory
