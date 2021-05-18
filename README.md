@@ -14,6 +14,7 @@
     * Semi-Supervised Learning, Unsupervised Learning
     * Generative Model
     * GAN(AC-GAN, SGAN, etc), AE(VAE, RaPP, etc)
+  * Out-Of-Distribution(OOD) Problem
   * Digital Signal Processing
     * Data Pre-processing
     * Data Selection for Training a Model
