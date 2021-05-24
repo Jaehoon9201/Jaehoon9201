@@ -10,11 +10,11 @@
     * Classification
     * Discriminative Model 
     * Supervised Learning
+    * Out-Of-Distribution(OOD) Problem
   * Anomaly Detection using a Deep Learning
     * Semi-Supervised Learning, Unsupervised Learning
     * Generative Model
     * GAN(AC-GAN, SGAN, etc), AE(VAE, RaPP, etc)
-  * Out-Of-Distribution(OOD) Problem
   * Digital Signal Processing
     * Data Pre-processing
     * Data Selection for Training a Model
