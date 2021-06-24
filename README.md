@@ -14,7 +14,7 @@
   * Anomaly Detection using a Deep Learning
     * Semi-Supervised Learning, Unsupervised Learning
     * Generative Model
-    * GAN, AE(VAE, RaPP, etc)
+    * GAN and AE, etc
   * Digital Signal Processing
     * Data Pre-processing
     * Data Selection for Training a Model
@@ -23,6 +23,7 @@
   * Embedded System (Digital Signal Processor : TI, STM, Infineon)
   * Power Electronics using a Machine Learning
   * Control and Design of a Motor-Drive
+  * On device AI / Embedded AI Solution
         
 #### 📫 Contact
 * email : jaehoon9201@snu.ac.kr
