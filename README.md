@@ -1,10 +1,5 @@
 ### Jae-Hoon Shim
 
-#### 🔭 Career
-* Received a B.S. degrees, in Hanyang University, Seoul, Korea, in 2018.
-* Pursuing a Ph.D degrees, in Seoul National University, Seoul, Korea, 2019.02~
-* Research engineer in Hyundai Motors Co. Ltd, Korea from 2018 to 2019
-
 #### 🌱 Interest 1 : Smart Factory
   * Fault Detection using a Deep Learning
     * Classification
@@ -15,10 +10,13 @@
     * Semi-Supervised Learning, Unsupervised Learning
     * Generative Model
     * GAN and AE, etc
+  * Real-Time Series Data
+    * Kafka
+    * Database
   * Digital Signal Processing
-    * Data Pre-processing
+    * Data Pre-processing(FFT and WPT, etc)
     * Data Selection for Training a Model
-    
+
 #### 🌱 Interest 2 : Power Electronics
   * Embedded System (Digital Signal Processor : TI, STM, Infineon)
   * Power Electronics using a Machine Learning
