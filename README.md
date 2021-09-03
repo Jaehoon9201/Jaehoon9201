@@ -24,4 +24,5 @@
   * On device AI / Embedded AI Solution
         
 #### 📫 Contact
-* email : jaehoon9201@snu.ac.kr
+  * E-mail : jaehoon9201@snu.ac.kr
+  * Blog : https://jaehoon9201.github.io/
