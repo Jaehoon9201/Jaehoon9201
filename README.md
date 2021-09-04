@@ -24,5 +24,8 @@
   * On device AI / Embedded AI Solution
         
 #### 📫 Contact
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaehoon9021&layout=compact)](https://github.com/Jaehoon9201/github-readme-stats)
+
   * E-mail : jaehoon9201@snu.ac.kr
   * Blog : https://jaehoon9201.github.io/
