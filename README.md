@@ -1,4 +1,4 @@
-### Jae-Hoon Shim
+### Jaehoon Shim
 
 #### 🌱 Interest 1 : Smart Factory
   * Fault Detection using a Deep Learning
