@@ -24,10 +24,11 @@
   * On device AI / Embedded AI Solution
         
 #### 📫 Contact
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
   * E-mail : jaehoon9201@snu.ac.kr
   * Blog : https://jaehoon9201.github.io/
 
-#### 🌱 Stats & Languages Card
+#### 💻 Stats & Languages Card
 [![Jaehoon9201's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaehoon9201)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaehoon9201&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
