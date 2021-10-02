@@ -3,18 +3,15 @@
 #### 🌱 Interest 1 : Smart Factory
   * Fault Detection using a Deep Learning
     * Classification
-    * Discriminative Model 
     * Supervised Learning
-    * Out-Of-Distribution(OOD) Problem
   * Anomaly Detection using a Deep Learning
     * Semi-Supervised Learning, Unsupervised Learning
     * Generative Model
-    * GAN and AE, etc
   * Real-Time Series Data
     * Kafka
     * Database
   * Digital Signal Processing
-    * Data Pre-processing(FFT and WPT, etc)
+    * Data Pre-processing
     * Data Selection for Training a Model
 
 #### 🌱 Interest 2 : Power Electronics
