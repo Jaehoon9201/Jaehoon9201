@@ -1,6 +1,6 @@
 ### Jaehoon Shim
 
-#### :books: My [Google Scholar](http://linkedlist.com)
+#### :books: My [Google Scholar](https://scholar.google.com/citations?hl=ko&user=FwoMgvkAAAAJ)
 
 #### 🌱 Interest 1 : Smart Factory
   * Fault Detection using a Machine Learning
