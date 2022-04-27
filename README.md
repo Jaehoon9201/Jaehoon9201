@@ -1,10 +1,12 @@
 ### Jaehoon Shim
 
+#### :books: My [Google Scholar](http://linkedlist.com)
+
 #### 🌱 Interest 1 : Smart Factory
-  * Fault Detection using a Deep Learning
+  * Fault Detection using a Machine Learning
     * Classification
     * Supervised Learning
-  * Anomaly Detection using a Deep Learning
+  * Anomaly Detection using a Machine Learning
     * Semi-Supervised Learning, Unsupervised Learning
     * Generative Model
   * Digital Signal Processing
@@ -14,8 +16,9 @@
 #### 🌱 Interest 2 : Power Electronics
   * Embedded System (Digital Signal Processor : TI, STM, Infineon)
   * Power Electronics using a Machine Learning
-  * Control and Design of a Motor-Drive
   * Embedded AI Solution
+  * Control and Design of a Motor-Drive
+  
         
 #### 🌱 Interest 3 : Programming
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>  <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" /> 
