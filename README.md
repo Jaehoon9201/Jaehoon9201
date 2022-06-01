@@ -1,6 +1,6 @@
 ### Jaehoon Shim
 
-#### 🌱 Interest 1 : Data mining (specially in Embedded system)
+#### 🌱 Interest 1 : Machine Learning Application (specially in Embedded system)
   * Fault Detection using a Machine Learning
     * Classification
     * Supervised Learning
