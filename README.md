@@ -18,12 +18,12 @@
 #### :books: My [Google Scholar](https://scholar.google.com/citations?hl=ko&user=FwoMgvkAAAAJ)
 
 + Research lists
- +  Fault Diagnosis of Inverter Current Sensor Using Artificial Neural Network Considering Out-of-distribution
-  + keywords : fault, diagnosis, electric system, Out-of-distribution(OOD), Machine learning, AI
- +  Current-Sensor and Switch-Open Fault Diagnosis Based on Discriminative Machine Learning Model for PMSM Driving System
-  + keywords : fault, diagnosis, Machine learning, AI
- +  Unsupervised Anomaly Detection for Electric Drives Based on Variational Auto-Encoder
-  + keywords : anomaly, detection, Variational Auto-Encoder(VAE), unsupervised learning
+   +  Fault Diagnosis of Inverter Current Sensor Using Artificial Neural Network Considering Out-of-distribution
+     + keywords : fault, diagnosis, electric system, Out-of-distribution(OOD), Machine learning, AI
+   +  Current-Sensor and Switch-Open Fault Diagnosis Based on Discriminative Machine Learning Model for PMSM Driving System
+     + keywords : fault, diagnosis, Machine learning, AI
+   +  Unsupervised Anomaly Detection for Electric Drives Based on Variational Auto-Encoder
+     + keywords : anomaly, detection, Variational Auto-Encoder(VAE), unsupervised learning
 
 -----------------
 
