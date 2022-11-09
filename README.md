@@ -4,7 +4,6 @@
 #### 🌱 Interest 1 : Power Electronics
   * Electrical Drives
   * Embedded System (Digital Signal Processor : TI, STM, Infineon)
-  * Power Electronics using a Machine Learning
   * Embedded AI Solution
   * Control and Design of a Motor-Drive
   
