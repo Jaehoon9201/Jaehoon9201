@@ -7,7 +7,7 @@
   * Embedded AI Solution
   * Control and Design of a Motor-Drive
   
-#### 🌱 Interest 2 : Machine Learning Application (specially in Embedded system)
+#### 🌱 Interest 2 : AI in Electrical Drives System
   * Fault Diagnosis 
   * Anomaly Detection
   * Data Processing
